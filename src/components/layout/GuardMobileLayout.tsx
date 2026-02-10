@@ -57,7 +57,7 @@ export function GuardMobileLayout({ children, title }: GuardMobileLayoutProps) {
                 <div className="flex h-8 w-8 items-center justify-center rounded-lg gradient-primary">
                   <Shield className="h-4 w-4 text-primary-foreground" />
                 </div>
-                <span className="font-bold text-foreground">SecureGuard</span>
+                <span className="font-bold text-foreground">Geovince</span>
               </div>
               <nav className="flex flex-col gap-1 p-4">
                 {navigation.map((item) => {

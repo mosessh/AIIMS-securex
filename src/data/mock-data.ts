@@ -58,7 +58,7 @@ export const mockGuards: Guard[] = [
   {
     id: '1',
     name: 'James Wilson',
-    email: 'j.wilson@secureguard.com',
+    email: 'j.wilson@Geovince.com',
     phone: '+1 555-0101',
     status: 'on_patrol',
     role: 'guard',
@@ -71,7 +71,7 @@ export const mockGuards: Guard[] = [
   {
     id: '2',
     name: 'Maria Santos',
-    email: 'm.santos@secureguard.com',
+    email: 'm.santos@Geovince.com',
     phone: '+1 555-0102',
     status: 'active',
     role: 'guard',
@@ -84,7 +84,7 @@ export const mockGuards: Guard[] = [
   {
     id: '3',
     name: 'David Chen',
-    email: 'd.chen@secureguard.com',
+    email: 'd.chen@Geovince.com',
     phone: '+1 555-0103',
     status: 'on_patrol',
     role: 'supervisor',
@@ -97,7 +97,7 @@ export const mockGuards: Guard[] = [
   {
     id: '4',
     name: 'Sarah Johnson',
-    email: 's.johnson@secureguard.com',
+    email: 's.johnson@Geovince.com',
     phone: '+1 555-0104',
     status: 'off_duty',
     role: 'guard',
@@ -109,7 +109,7 @@ export const mockGuards: Guard[] = [
   {
     id: '5',
     name: 'Michael Brown',
-    email: 'm.brown@secureguard.com',
+    email: 'm.brown@Geovince.com',
     phone: '+1 555-0105',
     status: 'active',
     role: 'guard',

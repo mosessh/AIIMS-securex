@@ -133,7 +133,7 @@ const Auth = () => {
               <Shield className="h-7 w-7" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold">SecureGuard</h1>
+              <h1 className="text-2xl font-bold">Geovince</h1>
               <p className="text-sm opacity-80">Command Center</p>
             </div>
           </div>
@@ -181,7 +181,7 @@ const Auth = () => {
               <Shield className="h-7 w-7 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-foreground">SecureGuard</h1>
+              <h1 className="text-2xl font-bold text-foreground">Geovince</h1>
               <p className="text-sm text-muted-foreground">Command Center</p>
             </div>
           </div>
@@ -193,7 +193,7 @@ const Auth = () => {
             <p className="mt-2 text-muted-foreground">
               {isLogin 
                 ? 'Enter your credentials to access the command center' 
-                : 'Sign up to get started with SecureGuard'}
+                : 'Sign up to get started with Geovince'}
             </p>
           </div>
 

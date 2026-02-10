@@ -118,7 +118,7 @@ serve(async (req) => {
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
           <div style="background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%); padding: 20px; border-radius: 8px 8px 0 0;">
-            <h1 style="color: white; margin: 0; font-size: 24px;">🛡️ SecureGuard Alert</h1>
+            <h1 style="color: white; margin: 0; font-size: 24px;">🛡️ Geovince Alert</h1>
           </div>
           
           <div style="background: #f8fafc; padding: 20px; border: 1px solid #e2e8f0; border-top: none;">
@@ -160,7 +160,7 @@ serve(async (req) => {
             </div>
             
             <p style="color: #64748b; font-size: 12px; margin: 20px 0 0 0; text-align: center;">
-              This is an automated alert from SecureGuard Command Center.
+              This is an automated alert from Geovince Command Center.
             </p>
           </div>
         </div>
