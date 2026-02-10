@@ -163,7 +163,7 @@ const Auth = () => {
           </div>
           
           <p className="text-sm opacity-60">
-            © 2026 SecureGuard. Enterprise Security Solutions.
+            © 2026 Geovince ltd. Enterprise Security Solutions.
           </p>
         </div>
         

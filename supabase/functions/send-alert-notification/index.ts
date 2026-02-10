@@ -112,7 +112,7 @@ serve(async (req) => {
 
     // Send email
     const emailResponse = await resend.emails.send({
-      from: "SecureGuard Alerts <onboarding@resend.dev>",
+      from: "Geovince Ltd Alerts <onboarding@resend.dev>",
       to: emails,
       subject: `🚨 ${severityLabel} Alert: ${payload.record.type.replace(/_/g, " ").toUpperCase()}`,
       html: `

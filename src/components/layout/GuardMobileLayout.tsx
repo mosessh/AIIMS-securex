@@ -110,7 +110,7 @@ export function GuardMobileLayout({ children, title }: GuardMobileLayoutProps) {
             <Shield className="h-4 w-4 text-primary-foreground" />
           </div>
           <span className="font-semibold text-foreground">
-            {title || "SecureGuard"}
+            {title || "Geovince ltd"}
           </span>
         </div>
       </header>
